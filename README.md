@@ -1,1 +1,1 @@
-# A-quick-overview-of-ResNet-models
+# A quick overview of ResNet models
